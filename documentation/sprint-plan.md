@@ -1,11 +1,11 @@
 # PLAN DE SPRINTS - OLIMPIA STORE
 
 ## SPRINT 0 (Semana 1): Setup y Arquitectura
-- [x] Entorno de desarrollo configurado
-- [x] Proyecto Laravel inicializado
-- [x] Git y repositorio configurado
-- [x] Estructura de módulos definida
-- [x] Base de datos diseñada
+- [ ] Entorno de desarrollo configurado
+- [ ] Proyecto Laravel inicializado
+- [ ] Git y repositorio configurado
+- [ ] Estructura de módulos definida
+- [ ] Base de datos diseñada
 
 ## SPRINT 1 (Semanas 2-3): Módulo de Autenticación
 - [ ] Sistema de usuarios y roles
